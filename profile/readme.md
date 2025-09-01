@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Quicksilver-Division/Quicksilver-Division-Logo.png" alt="QuickSilver Division Logo" width="200"/>
+  <img src="logo.png" alt="QuickSilver Division Logo" width="200"/>
 </p>
 
 <h1 align="center">QuickSilver Division</h1>
